@@ -1,0 +1,14 @@
+{
+  "name": "jquery.toaster",
+  "version": "1.0.0",
+  "description": "jQuery plugin for displaying customizable toast notifications via Bootstrap alerts",
+  "author": "Scott Offen <developer@scottoffen.com>",
+  "contributors": [
+    "Ben Harris <ben@harrisuk.com>"
+  ],
+  "main": "jquery.toaster.js",
+  "repository": "benharris/jquery.toaster",
+  "dependencies": {
+    "jquery": ">=1.11.1"
+  }
+}
